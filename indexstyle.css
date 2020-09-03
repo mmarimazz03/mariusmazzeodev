@@ -6,13 +6,13 @@
     
 }
 body {
-    background-color: #F2C9C1;
+    background-color: #F8FAFF;
 }
 .header {
     width:100%;
     height:80px;
     display:block;
-    background-color:#F5AA99;
+    background-color: #85B3FF;
 }
 .trow {
     color:white;
@@ -37,7 +37,7 @@ table {
 
 td { width:40%;}
 
-a { color:white; background-color:#F5AA99; font-weight: 500; }
+a { color:white; background-color:#85B3FF; font-weight: 500; }
 a:visited { text-decoration: none; color:white; }
 a:hover { text-decoration: none; font-weight:700; }
 a:focus { text-decoration: none; color:white; font-weight:700;}
@@ -47,6 +47,6 @@ span a {
 }
 #name_div{ font-family:'Roboto', sans-serif; font-size:50px; margin:auto; text-align:center; color:white; padding-top: 10%;}
 #descrip_div{ font-family:'Roboto', sans-serif; font-size:30px; margin:auto; text-align:center; color:white; }
-.link_div {font-family:'Roboto', sans-serif; font-size:20px; margin:auto; text-align:center; color:white; padding-top:1%; background-color:#F5AA99;}
+.link_div {font-family:'Roboto', sans-serif; font-size:20px; margin:auto; text-align:center; color:white; padding-top:1%; background-color:#85B3FF;}
 #img_div{margin:auto; padding-top:1%; display: block;}
 img { width:200px; margin-left:auto; margin-right:auto;  display:block;}
