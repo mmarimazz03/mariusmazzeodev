@@ -5,7 +5,7 @@ function createProjectDiv(title, description, imgURL, link){
     cd.style.margin = "auto";
     cd.style.width = "950px";
     cd.style.height = "300px";
-    cd.style.backgroundColor = "#333333";
+    cd.style.backgroundColor = "#F5AA99";
     cd.style.padding = "20px";
     cd.style.marginTop = "40px";
     cd.style.marginBottom = "40px";
@@ -18,11 +18,11 @@ function createProjectDiv(title, description, imgURL, link){
     imageDiv.style.float = "right";
     imageDiv.style.width = "40%";
     imageDiv.style.height = "100%";
-    imageDiv.style.backgroundColor = "#333333";
+    imageDiv.style.backgroundColor = "#F5AA99";
     
     textDiv.style.float = "left";
     textDiv.style.width = "40%";
-    textDiv.style.backgroundColor = "#333333";
+    textDiv.style.backgroundColor = "#F5AA99";
     textDiv.style.verticalAlign = "100%";
     t.className = "div_text";
     d.className = "div_text";
@@ -32,7 +32,7 @@ function createProjectDiv(title, description, imgURL, link){
     t.style.textAlign = "left"
     t.style.marginLeft = "3%"
     t.style.float = "left";
-    t.style.backgroundColor = "#333333";
+    t.style.backgroundColor = "#F5AA99";
     t.href = link
     d.style.color = "white";
     d.style.fontFamily = "'Open Sans'";
@@ -40,7 +40,7 @@ function createProjectDiv(title, description, imgURL, link){
     d.style.textAlign = "left"
     d.style.marginLeft = "3%"
     d.style.float = "left";
-    d.style.backgroundColor = "#333333";
+    d.style.backgroundColor = "#F5AA99";
     d.style.marginTop = "2%"
     d.style.fontSize = "20px";
     
