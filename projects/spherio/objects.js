@@ -64,7 +64,7 @@ function Menu() {
     strokeWeight(0)
     fill(this.fade1)
     textSize(30)
-    text('spherio', w / 2, h / 4)
+    text('spherix', w / 2, h / 4)
     textSize(10)
     //devmode
     text("(this won't be in actual game)press number keys to set level", w / 2, 7 * h / 8)
