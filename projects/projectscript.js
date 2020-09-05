@@ -62,4 +62,4 @@ function createProjectDiv(title, description, imgURL, link){
     textDiv.appendChild(d);
     cd.appendChild(i);
 }
-createProjectDiv("Spherix", "This is an strategy/skill browser game that I designed and created with developer Evan Clough. This game uses the Javascript visualization library p5.js. The source code can be found <a href = 'https://github.com/L-F-N/L-F-N.github.io'>here.</a> ", "Screen Shot 2020-09-03 at 1.21.59 AM.png", "spherix/spherix.html")
+createProjectDiv("Spherix", "This is an strategy/skill browser game that I designed and created with developer Evan Clough. This game uses the Javascript visualization library p5.js. The source code can be found <a href = 'https://github.com/L-F-N/L-F-N.github.io'>here.</a> ", "Screen Shot 2020-09-03 at 1.21.59 AM.png", "spherio/spherio.html")
